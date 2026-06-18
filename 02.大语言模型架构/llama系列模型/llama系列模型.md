@@ -1,3 +1,12 @@
+---
+title: llama系列模型
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # llama系列模型
 
 # 1.LLama

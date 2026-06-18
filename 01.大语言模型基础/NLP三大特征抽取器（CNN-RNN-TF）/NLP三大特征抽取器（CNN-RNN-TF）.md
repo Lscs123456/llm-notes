@@ -1,3 +1,12 @@
+---
+title: NLP三大特征抽取器（CNN/RNN/TF）
+module: 01.大语言模型基础
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # NLP三大特征抽取器（CNN/RNN/TF）
 
 > 摘自文章：[自然语言处理三大特征抽取器](https://zhuanlan.zhihu.com/p/54743941 "自然语言处理三大特征抽取器")

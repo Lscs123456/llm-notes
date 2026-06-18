@@ -1,3 +1,12 @@
+---
+title: LLM 推理常见参数
+module: 06.推理
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # LLM 推理常见参数
 
 > 文章参考：[LLM 推理常见参数解析 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzk0ODU3MjcxNA==\&mid=2247484444\&idx=1\&sn=da7767b359c5707a8a5c0096a5c9e48c\&chksm=c364c359f4134a4f3b8321ab9cffa45deef6b3f453243d290db0fd9af643adaeb105762c6ba6\&mpshare=1\&scene=1\&srcid=1208PVZ0tCkXwSJdQd0cLqyP\&sharer_shareinfo=d9196be9eb87f381d27033be958a58c3\&sharer_shareinfo_first=d9196be9eb87f381d27033be958a58c3#rd "LLM 推理常见参数解析 (qq.com)")

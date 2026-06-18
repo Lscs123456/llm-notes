@@ -1,3 +1,12 @@
+---
+title: rag（检索增强生成）技术
+module: 08.检索增强rag
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # rag（检索增强生成）技术
 
 # 1.基本概念

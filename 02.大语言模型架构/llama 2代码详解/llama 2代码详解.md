@@ -1,3 +1,12 @@
+---
+title: llama 2代码详解
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # llama 2代码详解
 
 > 文章摘自：[Llama 2详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/649756898 "Llama 2详解 - 知乎 (zhihu.com)")

@@ -1,3 +1,12 @@
+---
+title: ChatGLM3微调
+module: 05.有监督微调
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # ChatGLM3微调
 
 [chatglm3部署与微调实战 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/669032993 "chatglm3部署与微调实战 - 知乎 (zhihu.com)")

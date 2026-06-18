@@ -1,3 +1,12 @@
+---
+title: deepspeed介绍
+module: 04.分布式训练
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # deepspeed介绍
 
 ## 1.为什么需要Deepspeed

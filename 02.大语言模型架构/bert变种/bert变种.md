@@ -1,3 +1,12 @@
+---
+title: bert变种
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # bert变种
 
 ### 1.RoBERTa

@@ -1,3 +1,12 @@
+---
+title: 检索增强llm
+module: 08.检索增强rag
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # 检索增强llm
 
 > 文章来源：[万字长文: 检索增强 LLM (qq.com)](https://mp.weixin.qq.com/s?__biz=MzA5NTQ2MDEyOA==\&mid=2247484380\&idx=1\&sn=7b0b5dc3f76dd7a634ebb77df8697a24\&chksm=90be4d93a7c9c485593b6a299d607bfbcc30f05ec691b85f1fb6cf81c51ffe863dbc34759be6\&mpshare=1\&scene=1\&srcid=1204gaSWi0sA7clI6UZEYYL5\&sharer_shareinfo=f728c72f50e0aee521fb1319eb3b82b0\&sharer_shareinfo_first=f728c72f50e0aee521fb1319eb3b82b0#rd "万字长文: 检索增强 LLM (qq.com)")

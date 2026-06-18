@@ -1,3 +1,12 @@
+---
+title: DPO
+module: 07.强化学习
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # DPO
 
 Direct Preference Optimization: Your Language Model is Secretly a Reward Model

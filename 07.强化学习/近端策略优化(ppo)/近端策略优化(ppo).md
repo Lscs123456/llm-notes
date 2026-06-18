@@ -1,3 +1,12 @@
+---
+title: 近端策略优化(ppo)
+module: 07.强化学习
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # 近端策略优化(ppo)
 
 > 文章来源：[详解近端策略优化](https://www.cnblogs.com/xingzheai/p/15931681.html "详解近端策略优化")

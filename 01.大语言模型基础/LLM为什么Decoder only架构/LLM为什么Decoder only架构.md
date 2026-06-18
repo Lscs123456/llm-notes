@@ -1,3 +1,12 @@
+---
+title: LLM为什么Decoder only架构
+module: 01.大语言模型基础
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # LLM为什么Decoder only架构
 
 > [为什么现在的LLM都是Decoder only的架构？](https://blog.csdn.net/TFATS/article/details/133100383 "为什么现在的LLM都是Decoder only的架构？")

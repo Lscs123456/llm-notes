@@ -1,3 +1,12 @@
+---
+title: Transformer架构细节
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # Transformer架构细节
 
 ![](image/image_N4T6xFNXi8.png)

@@ -1,3 +1,12 @@
+---
+title: MHA\_MQA\_GQA
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # MHA\_MQA\_GQA
 
 ## 1.总结

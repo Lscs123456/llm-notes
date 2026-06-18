@@ -1,3 +1,12 @@
+---
+title: 大模型RLHF：PPO原理与源码解读
+module: 07.强化学习
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # 大模型RLHF：PPO原理与源码解读
 
 > 原文链接：[图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读](https://zhuanlan.zhihu.com/p/677607581 "图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读")

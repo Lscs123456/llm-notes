@@ -1,3 +1,12 @@
+---
+title: NLP面试题
+module: 01.大语言模型基础
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # NLP面试题
 
 ### 1.BERT

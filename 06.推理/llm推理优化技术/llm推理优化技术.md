@@ -1,3 +1,12 @@
+---
+title: llm推理优化技术
+module: 06.推理
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # llm推理优化技术
 
 > 原文链接：[Mastering LLM Techniques: Inference Optimization | NVIDIA Technical Blog](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/ "Mastering LLM Techniques: Inference Optimization | NVIDIA Technical Blog")

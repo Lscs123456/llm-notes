@@ -1,3 +1,12 @@
+---
+title: Word2Vec
+module: 01.大语言模型基础
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # Word2Vec
 
 > 文章来源：[Word2Vec详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/61635013 "Word2Vec详解 - 知乎 (zhihu.com)")

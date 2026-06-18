@@ -1,3 +1,12 @@
+---
+title: 大模型agent技术
+module: 08.检索增强rag
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # 大模型agent技术
 
 > 视频链接：[https://www.bilibili.com/video/BV1mC4y1g7cT](https://www.bilibili.com/video/BV1mC4y1g7cT "https://www.bilibili.com/video/BV1mC4y1g7cT")

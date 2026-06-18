@@ -1,3 +1,12 @@
+---
+title: 解码策略（Top-k & Top-p & Temperature）
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # 解码策略（Top-k & Top-p & Temperature）
 
 ## 0.简介

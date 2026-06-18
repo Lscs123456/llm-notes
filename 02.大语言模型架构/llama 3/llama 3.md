@@ -1,3 +1,12 @@
+---
+title: llama 3
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # llama 3
 
 ## 0.简介

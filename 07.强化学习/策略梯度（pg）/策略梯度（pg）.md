@@ -1,3 +1,12 @@
+---
+title: 策略梯度（pg）
+module: 07.强化学习
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # 策略梯度（pg）
 
 ## 0.引言

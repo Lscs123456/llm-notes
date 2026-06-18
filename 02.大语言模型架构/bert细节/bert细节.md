@@ -1,3 +1,12 @@
+---
+title: bert细节
+module: 02.大语言模型架构
+mastery: 未接触
+last_review: ~
+interview_freq: ~
+tags: []
+---
+
 # bert细节
 
 ## 1.背景结构
